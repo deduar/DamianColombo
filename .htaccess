@@ -1,0 +1,57 @@
+Options -Indexes
+
+Options +FollowSymlinks
+RewriteEngine On
+
+RewriteRule ^rings$ catalogo.php?codCategoria=2&codSubCategoria=1 [PT]
+RewriteRule ^earrings$ catalogo.php?codCategoria=2&codSubCategoria=2 [PT]
+RewriteRule ^bracelets$ catalogo.php?codCategoria=2&codSubCategoria=3 [PT]
+RewriteRule ^necklaces$ catalogo.php?codCategoria=2&codSubCategoria=4 [PT]
+RewriteRule ^engagement-rings$ catalogo.php?codCategoria=3&codSubCategoria=5 [PT]
+RewriteRule ^wedding-bands$ catalogo.php?codCategoria=3&codSubCategoria=6 [PT]
+RewriteRule ^love-celebrations$ catalogo.php?codCategoria=3&codSubCategoria=7 [PT]
+
+
+RewriteRule ^high-jewelry$ catalogo.php?codCategoria=1&codSubCategoria=9 [PT]
+
+RewriteRule ^cuenta$ cuenta.php [PT]
+RewriteRule ^login-error$ login.php?e=1 [PT]
+RewriteRule ^logout$ logout.php [PT]
+RewriteRule ^contact$ contacto.php [PT]
+RewriteRule ^checkout$ checkout.php [PT]
+RewriteRule ^wishlist$ wishlist.php [PT]
+RewriteRule ^perfil$ perfil.php [PT]
+RewriteRule ^cuenta$ cuenta.php [PT]
+RewriteRule ^login$ login.php [PT]
+RewriteRule ^bag$ carrito-lista.php [PT]
+RewriteRule ^registrarse$ registracion.php [PT]
+
+RewriteRule ^profile-edit$ editar.php [PT]
+RewriteRule ^profile-edit-fail$ editar.php?re=1 [PT]
+
+
+RewriteRule ^education$ educacion.php [PT]
+RewriteRule ^bridal-diamond-jewelry$ compromiso.php [PT]
+RewriteRule ^news$ news.php [PT]
+RewriteRule ^about-us$ nosotros.php [PT]
+RewriteRule ^newsletter-temp$ newsletter-temp.php [PT]
+RewriteRule ^gracias-newsletter$ gracias-newsletter.php [PT]
+RewriteRule ^checkout-payment$ checkout-pago.php [PT]
+RewriteRule ^recuperar-login-error$ recuperar-login.php?e=1 [PT]
+RewriteRule ^recuperar-login-ok$ recuperar-login.php?e=2 [PT]
+RewriteRule ^recuperar-clave$ recuperar-login.php [PT]
+RewriteRule ^search-result$ resultado.php [PT]
+RewriteRule ^checkout-login$ checkout-login.php [PT]
+
+RewriteRule ^consultas-frecuentes$ consultas-frecuentes.php [PT]
+RewriteRule ^medios-de-pago$ medios-de-pago.php [PT]
+RewriteRule ^atencion-al-cliente$ atencion-al-cliente.php [PT]
+RewriteRule ^terms-conditions$ terminos-condiciones.php [PT]
+RewriteRule ^size-guide$ guia-medidas.php [PT]
+RewriteRule ^thanks$ contacto.php?flagEnvio=ok [PT]
+RewriteRule ^contact-false$ contacto.php?flagEnvio=false [PT]
+RewriteRule ^privacy-policy$ privacy-policy.php [PT]
+
+
+
+#ErrorDocument 404 http://en-us.damiancolombo.com/

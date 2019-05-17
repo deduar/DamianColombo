@@ -1,0 +1,1163 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"els",
+				"else"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"col",
+				"col-sm-2"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"temp",
+				"templates"
+			],
+			[
+				"Pos",
+				"PostModel"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"t",
+				"top\tvertical-align"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"amo",
+				"amount_us"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"transaction",
+				"transactionID"
+			],
+			[
+				"reser",
+				"reservation"
+			],
+			[
+				"rese",
+				"reservations"
+			],
+			[
+				"ton",
+				"token"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"pay",
+				"paymentId"
+			],
+			[
+				"explod",
+				"explode"
+			],
+			[
+				"creta",
+				"created_at"
+			],
+			[
+				"dat",
+				"date_create"
+			],
+			[
+				"coun",
+				"countDownDate"
+			],
+			[
+				"res_",
+				"res_date"
+			],
+			[
+				"cret",
+				"created_at"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"ac",
+				"acction"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"matr",
+				"margin-bottom\tproperty"
+			],
+			[
+				"A",
+				"Accepted"
+			],
+			[
+				"explode",
+				"explode_date"
+			],
+			[
+				"b",
+				"btn-primary"
+			],
+			[
+				"for",
+				"date_format"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"foin",
+				"font-size\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"Cu",
+				"currency"
+			],
+			[
+				"Bank",
+				"BankTransfer"
+			],
+			[
+				"exp",
+				"exp_flat"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"expe",
+				"experience_schedules"
+			],
+			[
+				"dateFo",
+				"datesForDisable"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"ava",
+				"avatar"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"ba",
+				"back"
+			],
+			[
+				"Expe",
+				"ExperiencesSchedules"
+			],
+			[
+				"ExperienceS",
+				"ExperiencesSchedules"
+			],
+			[
+				"In",
+				"InstanBook"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"nu",
+				"rowNum"
+			],
+			[
+				"add",
+				"add_schedule"
+			],
+			[
+				"Exp",
+				"ExperiencesSchedules"
+			],
+			[
+				"date",
+				"datetimes"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"create_",
+				"create_schedule"
+			],
+			[
+				"exp_pho",
+				"exp_photo"
+			],
+			[
+				"gl",
+				"glyphicon"
+			],
+			[
+				"WH",
+				"width\tproperty"
+			],
+			[
+				"btN",
+				"btn-success"
+			],
+			[
+				"col-",
+				"col-md-12"
+			],
+			[
+				"tab",
+				"tab-pane"
+			],
+			[
+				"experi",
+				"experiences"
+			],
+			[
+				"cu",
+				"currency"
+			],
+			[
+				"experie",
+				"experience_photos"
+			],
+			[
+				"Experi",
+				"experienceCategories"
+			],
+			[
+				"Docyme",
+				"DocumentType"
+			],
+			[
+				"Docu",
+				"DocumentType"
+			],
+			[
+				"doc",
+				"docType"
+			],
+			[
+				"Doc",
+				"documentType"
+			],
+			[
+				"pub",
+				"public"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"col-md",
+				"col-md-4"
+			],
+			[
+				"exp_",
+				"exp_photos"
+			],
+			[
+				"Ex",
+				"ExperiencesPhotos"
+			],
+			[
+				"has",
+				"hasFile"
+			],
+			[
+				"borde",
+				"border\tproperty"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"Use",
+				"Users"
+			],
+			[
+				"padin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"padi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"publi",
+				"Publish"
+			],
+			[
+				"col-md-",
+				"col-md-8"
+			],
+			[
+				"curr",
+				"currency"
+			],
+			[
+				"foint",
+				"font-weight\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"us",
+				"us_prof"
+			],
+			[
+				"exp_dura",
+				"exp_duration_h"
+			],
+			[
+				"exp_du",
+				"exp_duration"
+			],
+			[
+				"curren",
+				"currency"
+			],
+			[
+				"rou",
+				"route"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"Se",
+				"Session"
+			],
+			[
+				"boo",
+				"boolean"
+			],
+			[
+				"widt",
+				"width\tproperty"
+			],
+			[
+				"border",
+				"border-left\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"Can",
+				"canceled"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"gui",
+				"guide"
+			],
+			[
+				"resr",
+				"reservations"
+			],
+			[
+				"reserva",
+				"reservation_date"
+			],
+			[
+				"experience",
+				"experience_id"
+			],
+			[
+				"my",
+				"myreservations"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"myexp",
+				"myexps"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"Con",
+				"config"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 98,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "AuthorizeNetPayment.php",
+			"settings":
+			{
+				"buffer_size": 2519,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "DBController.php",
+			"settings":
+			{
+				"buffer_size": 2046,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 7070,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 124.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit history"
+			],
+			[
+				"add",
+				"Git: Add All"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"exit",
+			"show menu"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/deduar/Projects/authorize-net"
+	],
+	"file_history":
+	[
+		"/home/deduar/Projects/authorize-net/vendor/authorizenet/authorizenet/lib/net/authorize/api/contract/v1/TransactionResponseType/ErrorsAType/ErrorAType.php",
+		"/home/deduar/Projects/authorize-net/vendor/authorizenet/authorizenet/lib/net/authorize/api/contract/v1/CreateTransactionResponse.php",
+		"/home/deduar/Projects/DamianColombo/carrito-lista.php",
+		"/home/deduar/Projects/DamianColombo/carrito.php",
+		"/home/deduar/Projects/DamianColombo/backoffice/connect.php",
+		"/home/deduar/Projects/Horoscopo_S34/web/.htaccess",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/decanatos.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/index.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/base.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/guia_astrologica.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/signo.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/src/MainBundle/Controller/HoroscopoController.php",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/relajacion.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/besos.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/posiciones.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/puntog.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/caracteristica_signo.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/calcula_decanatos.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/carretilla.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/fuerzag.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/jinete.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/tumbona.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/desafio.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/forma.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/sexo.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/clarividencia.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/astrologica.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/config/config.yml",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/singin.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/singin.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/app/config/routing.yml",
+		"/home/deduar/Projects/Horoscopo_S34/app/Resources/views/horoscopo/_index.html.twig",
+		"/home/deduar/Projects/Horoscopo_S34/vendor/composer/autoload_static.php",
+		"/home/deduar/Projects/Horoscopo_S34/app/config/services.yml",
+		"/home/deduar/Projects/Horoscopo_S34/composer.json",
+		"/home/deduar/Projects/Horoscopo_S34/app/AppKernel.php",
+		"/home/deduar/Projects/Horoscopo_S34/src/MainBundle/MainBundle.php",
+		"/home/deduar/Projects/Horoscopo_S34/web/app_dev.php",
+		"/home/deduar/Projects/Horoscopo_S34/app/.htaccess",
+		"/home/deduar/Projects/Horoscopo_S34/src/MainBundle/Resources/config/routing.yml",
+		"/home/deduar/Projects/Horoscopo_S34/src/AppBundle/AppBundle.php",
+		"/home/deduar/Projects/Horoscopo_S34/src/AppBundle/Controller/DefaultController.php",
+		"/home/deduar/Projects/Horoscopo_S34/src/.htaccess",
+		"/home/deduar/Projects/Horoscopo/.env",
+		"/tmp/feminatarot.com/index.html",
+		"/home/deduar/Projects/Horoscopo/templates/main/index.html.twig",
+		"/home/deduar/Projects/Horoscopo/templates/base.html.twig",
+		"/home/deduar/Projects/Horoscopo/templates/hellow.html.twig",
+		"/home/deduar/Projects/Horoscopo/public/.htaccess",
+		"/home/deduar/Projects/Horoscopo/.htaccess",
+		"/home/deduar/Projects/Horoscopo/public/.htacces",
+		"/home/deduar/Projects/Horoscopo/.htacces",
+		"/home/deduar/Projects/GS-Servicios/application/config/config.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/templates/header.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/products/create.php",
+		"/home/deduar/Projects/GS-Servicios/application/controllers/Product.php",
+		"/home/deduar/Projects/GS-Servicios/application/config/routes.php",
+		"/home/deduar/Projects/GS-Servicios/application/config/database.php",
+		"/home/deduar/Projects/GS-Servicios/application/models/ProductModel.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/products/edit.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/products/index.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/products/create_old.php",
+		"/home/deduar/Projects/GS-Servicios/application/config/autoload.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/posts/index.php",
+		"/home/deduar/Projects/GS-Servicios/application/controllers/Post.php",
+		"/home/deduar/Projects/GS-Servicios/application/controllers/Employee.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/templates/master_view.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/templates/default.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/content.php",
+		"/home/deduar/Projects/GS-Servicios/application/models/PostModel.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/theme/header.php",
+		"/home/deduar/Projects/GS-Servicios/application/models/Post.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/itemCRUD.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/theme/footer.php",
+		"/home/deduar/Projects/GS-Servicios/application/controllers/Items.php",
+		"/home/deduar/Projects/GS-Servicios/application/models/Items.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/pages/home.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/homepage_view.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/templates/master_footer_view.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/templates/master_sidebar_view.php",
+		"/home/deduar/Projects/GS-Servicios/application/libraries/Template.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/templates/master_header_view.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/template/main.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/home.php",
+		"/home/deduar/Projects/GS-Servicios/.htaccess",
+		"/home/deduar/Projects/GS-Servicios/application/views/template/footer.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/template/header.php",
+		"/home/deduar/Projects/GS-Servicios/application/controllers/Faqs.php",
+		"/home/deduar/Projects/GS-Servicios/application/models/Faqs_models.php",
+		"/home/deduar/Projects/GS-Servicios/application/.htaccess",
+		"/home/deduar/Projects/GS-Servicios/application/controllers/User.php",
+		"/home/deduar/Projects/GS-Servicios/application/views/user_view.php",
+		"/home/deduar/Projects/GS-Servicios/resources/tinymce/js/tinymce/tinymce.min.js",
+		"/home/deduar/Projects/GS-Servicios/application/controllers/Welcome.php",
+		"/home/deduar/Projects/heroku_onlinesales2/resources/views/product/buy.blade.php",
+		"/home/deduar/Projects/heroku_onlinesales2/app/Http/Controllers/ProductController.php",
+		"/home/deduar/Projects/heroku_onlinesales2/routes/web.php",
+		"/home/deduar/Projects/heroku_onlinesales2/app/User.php",
+		"/home/deduar/Projects/heroku_onlinesales2/resources/views/product/create.blade.php",
+		"/home/deduar/Projects/heroku_onlinesales2/app/Product.php",
+		"/home/deduar/Projects/heroku_onlinesales2/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/deduar/Projects/heroku_onlinesales2/app/Http/Controllers/Auth/LoginController.php",
+		"/home/deduar/Projects/heroku_onlinesales2/app/Http/Controllers/Auth/VerificationController.php",
+		"/home/deduar/Projects/heroku_onlinesales2/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/home/deduar/Projects/heroku_onlinesales2/database/migrations/2019_02_01_224705_create_products_table.php",
+		"/home/deduar/Projects/heroku_onlinesales2/resources/views/home.blade.php",
+		"/home/deduar/Projects/heroku_onlinesales2/resources/views/product/index.blade.php",
+		"/home/deduar/Projects/heroku_onlinesales2/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/deduar/Projects/heroku_onlinesales2/.env",
+		"/home/deduar/Projects/heroku_onlinesales2/app/Http/Controllers/HomeController.php",
+		"/home/deduar/Projects/heroku_onlinesales2/routes/channels.php",
+		"/home/deduar/Projects/heroku_onlinesales2/config/app.php",
+		"/home/deduar/Projects/heroku_onlinesales2/config/database.php",
+		"/home/deduar/Projects/php_smtp/index.php",
+		"/home/deduar/Projects/Coexperiences_v-2.0/resources/views/experience/show.blade.php",
+		"/home/deduar/Projects/Coexperiences_v-2.0/resources/views/experience/index.blade.php",
+		"/home/deduar/Projects/Coexperiences_v-2.0/app/Http/routes.php",
+		"/home/deduar/Projects/Coexperiences_v-2.0/resources/views/reservation/reservation_list.blade.php",
+		"/home/deduar/Projects/Coexperiences_v-2.0/config/app.php",
+		"/home/deduar/Projects/COE_v2/app/Http/routes.php",
+		"/home/deduar/Projects/COE_v2/app/Http/Controllers/Experiences/ExperiencesController.php",
+		"/home/deduar/Projects/COE_v2/app/Http/Controllers/Reservation/ReservationController.php",
+		"/home/deduar/Projects/COE_v2/resources/views/reservation/fail.blade.php",
+		"/home/deduar/Projects/Coexperiences_v-2.0/resources/views/reservation/waiting.blade.php",
+		"/home/deduar/Projects/Coexperiences_v-2.0/app/Http/Controllers/Reservation/ReservationController.php",
+		"/home/deduar/Projects/Coexperiences_v-2.0/resources/views/reservation/confirm.blade.php",
+		"/home/deduar/Projects/Coexperiences_v-2.0/app/Libraries/ConsumerPaypal.php",
+		"/home/deduar/Projects/Coexperiences_v-2.0/resources/views/reservation/index.blade.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"null",
+			"die",
+			"getTransactionResponse",
+			"{\n",
+			"exit",
+			"captcha",
+			"img",
+			"                </",
+			"url",
+			" }}\"",
+			"thumbnail",
+			"ul>",
+			"li>",
+			"li",
+			"ico",
+			"\n                ",
+			"\">\n",
+			"%}\n",
+			"la",
+			".\n",
+			">\n",
+			"horos",
+			">\n",
+			"backgro",
+			"href",
+			">\n",
+			"\n  ",
+			"assets",
+			"asstes",
+			"assets",
+			"ass",
+			"asset",
+			"assets",
+			"app",
+			"()",
+			"script",
+			"animation",
+			"skeleton",
+			">\n",
+			"2018",
+			"155",
+			"mega_menu",
+			"mega-drop",
+			"=\"\"",
+			">",
+			"root",
+			"Direc",
+			"inde",
+			"/\n",
+			"BASE",
+			"base",
+			"?>\n",
+			"post",
+			"header",
+			"(){\n",
+			"ItemCRUD",
+			"itemCRUD",
+			"'/';",
+			" /",
+			"'/~",
+			"min.js",
+			"min",
+			"themes",
+			"themes/mode",
+			"com",
+			"}}</",
+			"60px",
+			"eservar",
+			"reser",
+			"minutes",
+			"Cancel(",
+			"Rejected",
+			"Rejected(",
+			"experiences",
+			"rejected(",
+			"paid",
+			"Paid",
+			"paid",
+			"Paid",
+			"confi",
+			"save",
+			"update",
+			"save",
+			"update",
+			"captu",
+			"autho",
+			"authoriz",
+			"authorize",
+			"execute",
+			"executePayPal",
+			"explode",
+			"baseUrl",
+			");\n",
+			"paypal",
+			"        \n",
+			"api",
+			"apiContext",
+			"payPa",
+			"PayPal",
+			"});",
+			"13",
+			"demo",
+			"Defere",
+			"Rejected(",
+			"paid",
+			"index",
+			"exper",
+			"admin",
+			"paypal",
+			"paid",
+			"PayPal",
+			"paid",
+			"paypal",
+			"pay",
+			"\t\n",
+			"scope",
+			"paid",
+			"button",
+			"defered",
+			"PayTransfer(",
+			"Waiting",
+			"waitin",
+			"Canceled",
+			"Cance",
+			"Rejected(",
+			"wait",
+			"btn",
+			"',\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			":#00b1e5",
+			"asterisk",
+			"$us_prof",
+			"$exp",
+			"exp",
+			"calendario",
+			"calendarios",
+			"calendario",
+			"calendarios",
+			"especialidad",
+			"especialidades",
+			"Especialidades",
+			"especialidad",
+			"especialidades",
+			"Especialidades",
+			"especialidades",
+			"Especialidades",
+			"especialidad",
+			"Especialidade",
+			"especialidades",
+			"especialidedes",
+			"especialidades",
+			"Pais",
+			"pais",
+			"Estado",
+			"estado",
+			"Ciudad",
+			"ciudad",
+			"Persona",
+			"persona",
+			"HistoricoMovExcepcion",
+			"historicomovexcepcion",
+			"tipoexcepcion",
+			"TipoExcepcion",
+			"excepciones"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "AuthorizeNetPayment.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1067,
+								1067
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "DBController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1721,
+								1721
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 403.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2122,
+								2122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 612.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 94.0
+	},
+	"output.git":
+	{
+		"height": 90.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "authorize-net.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

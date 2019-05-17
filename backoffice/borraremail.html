@@ -1,0 +1,63 @@
+<html>
+    <head>
+      <title>Pedidos On Line</title>
+      <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+      </head>
+    <body style='padding:0; margin:0'>
+       <table border='0' cellspacing='0' cellpadding='30' style='width:100%; font-family:Helvetica Neue, Helvetica, Arial, sans-serif; text-align:center; background:#333333' width='100%' align='center'><tr><td align='center' style='width:100%; font-family:Helvetica Neue, Helvetica, Arial, sans-serif; text-align:center; background:#333333' width='100%'>
+        <table border='0' cellspacing='0' cellpadding='0' align='center' style='width:590px; margin:0 auto; text-align:center' width='590'><tr><td>
+          <table border='0' cellspacing='0' cellpadding='0' style='width:100%' width='100%'>
+            <tr>
+              <td style='width:160px' width='160'><a href='http://www.sconsulting.com.ar' style='text-decoration:none'><img src='http://www.vivrenegocios.com.ar/images/logoPreview.png' alt='Vivre Negocios' style='display:block; border:0px'></a></td>
+              <td valign='bottom' style='text-align:right' align='right'><h3 style='font-family:Helvetica Neue, Helvetica, Arial, sans-serif; margin:0; padding:0; font-size:15px; font-weight:400; color:#FFFFFF'>Hola ".$nombre."</h3></td>
+            </tr>
+          </table>  
+          <br><br><br>
+    <h1 style='font-family:Helvetica Neue, Helvetica, Arial, sans-serif; font-weight:300; margin:0; padding:0; font-size:32px; line-height:40px; color:#ffffff; text-align:center' align='center'>Novedades! Tu pedido esta ".$estado.".</h1>
+    <h3 style='font-family:Helvetica Neue, Helvetica, Arial, sans-serif; font-weight:300; margin:0; padding:0; font-size:14px; line-height:40px; color:#ffffff; text-align:center' align='center'>Pedido Nro. ".$id_pedido."</h3>";
+    
+    If ($estadoV==1) {
+    
+      $texto=$texto."<br><br><h3 style='font-family:Helvetica Neue, Helvetica, Arial, sans-serif; font-weight:300; margin:0; padding:0; font-size:14px; line-height:10px; color:#ffffff; text-align:left'>
+
+        Tu pedido esta valorizado, pod&eacute;s accceder a realizar el pago con tu tarjeta de cr&eacute;.</h3>";
+    }
+
+    If ($estadoV==3) {
+    
+      $texto=$texto."<br><br><h3 style='font-family:Helvetica Neue, Helvetica, Arial, sans-serif; font-weight:300; margin:0; padding:0; font-size:14px; line-height:10px; color:#ffffff; text-align:left'>Su pedido fue despachado exitosamente, gracias por utilizar nuestra web. <br>Por favor confirmar la recepci&oacute;n de su mercaderia <br><br>Controle su pedido.</h3>";
+    }
+    
+      $texto=$texto."<table width='100%' border='0' cellspacing='0' cellpadding='0'>
+          <tr>
+          <td style='color:#1d1e21; text-align:center' align='center'>
+
+            <table align='center' border='0' cellspacing='0' cellpadding='20'>
+              <tr><td width='162' height='40' style='height:40px; font-size:0px; line-height:0px'>&#160;</td></tr>
+              <tr>
+                <td align='center' style='font-family:Helvetica Neue, Helvetica, Arial, sans-serif; font-weight:500; -webkit-border-radius:4px; -moz-border-radius:4px; border-radius:4px; background-color:#1EA858' bgcolor='#22be65'><strong><a href='http://www.vivrenegocios.com.ar/login2b.php?idUsuario=".$idUsuario."&id_pedido=".$id_pedido2."' style='text-decoration:none; font-size:14px; display:block; color:#ffffff'>Para acceder al pedido haga click aquí.</a></strong></td>
+              </tr>
+              <tr><td style='height:40px; font-size:0px; line-height:0px' height='40'>&#160;</td></tr>
+            </table>
+
+          </td>
+        </tr>
+    </table>  </td></tr></table>  </td></tr></table>  <table border='0' cellspacing='0' cellpadding='50' align='center' style='width:100%; margin:0 auto; font-family:Helvetica Neue, Helvetica, Arial, sans-serif; text-align:center' width='100%'>
+      <tr>
+        <td>
+          <table border='0' cellspacing='0' cellpadding='0' width='590' style='margin: 0 auto;'>
+            <tr>
+              <td>
+                <p style='font-family:Helvetica Neue, Helvetica, Arial, sans-serif; padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; font-size:12px; color:#253139; line-height:16px'>
+
+                </p>
+                
+                  </td>
+              <td width='45' valign='top'><img src='http://static.issuu.com/mail/gui/facebook-button-discreet.gif' alt='Facebook' style='display:block; border:0px'></td>
+              </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    </body>
+    </html>
